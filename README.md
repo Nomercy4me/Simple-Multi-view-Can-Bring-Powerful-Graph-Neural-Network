@@ -10,7 +10,7 @@ step 1: \
  &ensp; cd ./code/MV-GCN\
 step 2:\
  &ensp; python train.py for dataset Cora, CiteSeer, PubMed\
-  &ensp;python train_multilabel for dataset Douban
+ &ensp; python train_multilabel for dataset Douban
 
 Reproduce our model with GAT backbone:\
 step 1: \
