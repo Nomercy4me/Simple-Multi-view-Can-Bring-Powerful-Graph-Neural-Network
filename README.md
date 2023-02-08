@@ -7,14 +7,14 @@ The framework of MV-GNN is illustrated in Fig.2. For the input graph, instead of
 ### Run the code
 Reproduce our model with GCN backbone:\
 step 1: \
-  cd ./code/MV-GCN\
+ &ensp; cd ./code/MV-GCN\
 step 2:\
-  python train.py for dataset Cora, CiteSeer, PubMed\
-  python train_multilabel for dataset Douban
+ &ensp; python train.py for dataset Cora, CiteSeer, PubMed\
+  &ensp;python train_multilabel for dataset Douban
 
 Reproduce our model with GAT backbone:\
 step 1: \
-  cd ./code/MV-GAT\
+ &ensp; cd ./code/MV-GAT\
 step 2:\
-  python execute_sdata_sparse.py for dataset Cora, CiteSeer, PubMed\
-  python execute_doubanmovie_sparse.py for dataset Douban
+ &ensp; python execute_sdata_sparse.py for dataset Cora, CiteSeer, PubMed\
+ &ensp; python execute_doubanmovie_sparse.py for dataset Douban
