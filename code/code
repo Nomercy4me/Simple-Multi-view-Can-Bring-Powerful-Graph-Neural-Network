@@ -1,1 +1,2 @@
-code
+cd "MV-GCN" if you want to reproduce our model with GCN backbone.
+cd "MV-GAT" if you want to reproduce our model with GAT backbone.
