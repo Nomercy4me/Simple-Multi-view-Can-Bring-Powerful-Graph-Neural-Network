@@ -7,7 +7,7 @@ The framework of MV-GNN is illustrated in Fig.2. For the input graph, instead of
 ### Run the code
 Reproduce our model with GCN backbone:\
 step 1: \
- &ensp; cd ./code/MV-GCN\
+ &ensp; <code>cd ./code/MV-GCN<code>\
 step 2:\
  &ensp; python train.py for dataset Cora, CiteSeer, PubMed\
  &ensp; python train_multilabel for dataset Douban
